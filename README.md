@@ -1,2 +1,2 @@
-# projeto-android
- Projeto Android desenvolvido juntamente com o curso em vídeo.
+# android
+ Projeto android  criado no Capítulo 17 do curso de Html e CSS
